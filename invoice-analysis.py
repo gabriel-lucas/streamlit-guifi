@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-import plotly.graph_objects as go
+import plotly.graph_objs as go
 
 # Function to load the uploaded file
 def load_data(uploaded_file):
